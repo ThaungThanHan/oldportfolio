@@ -1,0 +1,40 @@
+.contact{
+    margin-bottom: 4rem;
+    &--title{
+        font-family:Pixellari;
+        font-size:2rem;
+        margin-top:2rem;
+        color:#FFFFFF;
+        text-align: center;
+        text-decoration: underline;
+    }
+    &--info{
+        &--title{
+            font-family: Pixellari;
+            text-align: center;
+            font-size:2rem;
+        }
+        &--gmail{
+            font-family: Pixellari;
+            text-align: center;
+            font-size:1.5rem;
+        }
+        &--title2{
+            font-family:Pixellari;
+            font-size:2rem;
+            margin-top:2rem;
+            color:#FFFFFF;
+            text-align: center;
+            text-decoration: underline;
+        }
+    }
+}
+.socialmedia{
+    // border:1px solid red;
+
+    margin:0 auto;      // this only works if div has a width
+    width:20rem;
+
+    display:flex;
+    justify-content: space-between;
+}
