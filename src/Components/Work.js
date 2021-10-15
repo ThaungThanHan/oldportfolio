@@ -35,7 +35,7 @@ const Work = () => (
             </div>
             <div class="work--showcase--box--actions">
                 <div class="view-demo">
-                <Link to='https://thaungthanhan.github.io/moviedb/'>View Demo</Link>
+                <a class="view-demo--link" href='https://thaungthanhan.github.io/moviedb/' target="_blank">View Demo</a>
                 </div>
                 <div class="view-article">
                     Read Article
