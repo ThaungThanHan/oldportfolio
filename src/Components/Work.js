@@ -1,5 +1,6 @@
 import React from 'react';
 import './Work.scss';
+import {Link} from 'react-router-dom';
 
 import bookstore from "../images/bookadian.png";
 import moviedb from '../images/moviedb.png';
@@ -34,7 +35,7 @@ const Work = () => (
             </div>
             <div class="work--showcase--box--actions">
                 <div class="view-demo">
-                    View Demo
+                <Link to='https://thaungthanhan.github.io/moviedb/'>View Demo</Link>
                 </div>
                 <div class="view-article">
                     Read Article

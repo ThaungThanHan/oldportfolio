@@ -2,7 +2,7 @@
   "name": "thaung-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thaungthanhan.github.io/thaungportfolio/",
+  "homepage": "https://thaungthanhan.github.io/thaungthanhan/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
