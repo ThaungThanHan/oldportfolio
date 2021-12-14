@@ -7,8 +7,12 @@ const About = () => (
         <div class="about--details">
             <img class="about--details--image" src={profile}/>
             <div class="about--details--info">
-                <p>Full-stack web developer focusing on user interfaces from command line tools, to design systems, to rich experiences.</p>
-                <p>Working freelance based in Myanmar</p>
+                <p>
+                A hardworking and ambitious individual who excels at frontend web development with ReactJS as well as backend web technologies such as Laravel and Firebase.
+                </p>
+                <p>
+                The ability to tinker for long hours of coding and creative thinking has helped me stand out as a web artisan.
+                </p>
             </div>
         </div>
         <hr style={{width:"30rem",color:"#000000",fontWeight:'bold',marginBottom:'3rem'}} />
