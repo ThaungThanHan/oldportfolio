@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/thaungthanhan/static/css/main.641e7a19.chunk.css",
+    "main.js": "/thaungthanhan/static/js/main.8d4e21ab.chunk.js",
+    "main.js.map": "/thaungthanhan/static/js/main.8d4e21ab.chunk.js.map",
+    "runtime-main.js": "/thaungthanhan/static/js/runtime-main.44190973.js",
+    "runtime-main.js.map": "/thaungthanhan/static/js/runtime-main.44190973.js.map",
+    "static/js/2.9b079d6c.chunk.js": "/thaungthanhan/static/js/2.9b079d6c.chunk.js",
+    "static/js/2.9b079d6c.chunk.js.map": "/thaungthanhan/static/js/2.9b079d6c.chunk.js.map",
+    "index.html": "/thaungthanhan/index.html",
+    "static/css/main.641e7a19.chunk.css.map": "/thaungthanhan/static/css/main.641e7a19.chunk.css.map",
+    "static/js/2.9b079d6c.chunk.js.LICENSE.txt": "/thaungthanhan/static/js/2.9b079d6c.chunk.js.LICENSE.txt",
+    "static/media/bookadian.4f714a56.png": "/thaungthanhan/static/media/bookadian.4f714a56.png",
+    "static/media/facebook.4aeb301d.svg": "/thaungthanhan/static/media/facebook.4aeb301d.svg",
+    "static/media/github.c57108f5.svg": "/thaungthanhan/static/media/github.c57108f5.svg",
+    "static/media/linkedin.9c537f31.svg": "/thaungthanhan/static/media/linkedin.9c537f31.svg",
+    "static/media/moviedb.52f878bf.png": "/thaungthanhan/static/media/moviedb.52f878bf.png",
+    "static/media/portfolio.e607f333.jpg": "/thaungthanhan/static/media/portfolio.e607f333.jpg",
+    "static/media/profitlossSite.89b66a7d.png": "/thaungthanhan/static/media/profitlossSite.89b66a7d.png",
+    "static/media/schoolmanagement.6e0e5017.png": "/thaungthanhan/static/media/schoolmanagement.6e0e5017.png",
+    "static/media/Header.scss": "/thaungthanhan/static/media/sky.51548107.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44190973.js",
+    "static/js/2.9b079d6c.chunk.js",
+    "static/css/main.641e7a19.chunk.css",
+    "static/js/main.8d4e21ab.chunk.js"
+  ]
+}
