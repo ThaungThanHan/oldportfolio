@@ -40,7 +40,7 @@ const Header = () => (
             </ul>
         </div>
         <div class="header--title">
-            <h1 class="header--title--name">T</h1>
+            <h1 class="header--title--name">Thaung Than Han</h1>
             <p class="header--title--dev">Will-driven Developer</p>
         </div>
     </div>
