@@ -2,6 +2,11 @@
 
 <p>Welcome! </br> I am Thaung Than Han, fullstack JavaScript developer, living in Thailand <img src="https://img.icons8.com/?size=512&id=60244&format=png" width="13" /> <br/> I love to spend hours on solving puzzles and making my brain sweat. That's why I am here to contribute in open source projects.</p>
 
+### 📌 &nbsp;**Top Repositories**
+I have built tons of demo projects for training purposes and the ones below are my favorites - 
+- [HanVotingApp Client](https://github.com/ThaungThanHan/votingclient) - Frontend client for HanVotingApp. Simple and straightforward design to showcase my coding capabilities in fullstack environment. 
+- [HanVotingApp Server](https://github.com/ThaungThanHan/votingserver) - Server app for HanVotingApp. It has a lot of features, starting from user management, CRUD operations to fool-proof voting mechanism which allows users to create their own rooms with candidates and invite others to cast a vote.
+ 
 <details>
   <summary><b>💻&nbsp;&nbsp;My comfort coding tools&nbsp;</b></summary>
   <br/>
