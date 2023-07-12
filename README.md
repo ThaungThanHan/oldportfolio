@@ -21,3 +21,8 @@ I have built tons of demo projects for training purposes and the ones below are 
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
 </details>
+<details>
+  <summary><b>🙋🏻‍♂️&nbsp;&nbsp;Find me on&nbsp👇🏻</b></summary>
+  <br/>
+ <p><a href="https://github.com/ThaungThanHan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.facebook.com/jackson.linn.39/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://linkedin.com/in/thaung-than-h-658b57118" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</details>
